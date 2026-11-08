@@ -1,0 +1,4 @@
+ git branch -vv
+  bug-fix-typo 88cc9ff [origin/bug-fix-typo] Fix year typo in footer to 2023
+  main         88cc9ff [origin/main: ahead 1] Fix year typo in footer to 2023
+* revert-typo  ba2c4fd [origin/revert-typo] Revert year typo back to 2022 XYZ, Inc.
